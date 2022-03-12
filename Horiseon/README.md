@@ -7,7 +7,7 @@ CSS style sheet was condensed as was appropriate,
 CSS style sheet was rearranged for easier reading and understanding,
 Heading attributes were put in sequential order.
 
-https://github.com/cmc496/Challenge1_Horiseon/tree/main/Horiseon/Develop/assets/images/Horiseon-Marketing-Agency.png
+Screenshot: https://github.com/cmc496/Challenge1_Horiseon/tree/main/Horiseon/Develop/assets/images/Horiseon-Marketing-Agency.png
 
-https://cmc496.github.io/Horiseon/Develop/index.html
+https://cmc496.github.io/Challenge1_Horiseon/Horiseon/Develop/index.html
 
