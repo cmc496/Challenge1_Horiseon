@@ -111,10 +111,6 @@ p {
     margin-bottom: 32px;
     color: #ffffff;
 }
-.benefit-cost {
-    margin-bottom: 8px;
-}
-/* margin-bottom edited to keep flush with social-media-marketing element */
 
 .benefit-lead h3, .benefit-brand h3, .benefit-cost h3 {
     margin-bottom: 10px;
