@@ -1,4 +1,4 @@
-##Horiseon
+# Horiseon</br>
 This repo holds refactored code that was altered in the following ways to achieve better accessibility:</br>
 Title was updated to be more descriptive,</br>
 Semantic HTML tags replaced non-semantic HTML tags,</br>
